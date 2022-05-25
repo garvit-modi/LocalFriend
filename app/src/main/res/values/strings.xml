@@ -1,3 +1,6 @@
 <resources>
     <string name="app_name">LocalFriend</string>
+    <string name="please_provided_your_name_and_an_profile_photo">Please provided your name and an profile photo</string>
+    <string name="type_your_name_here">Type your name here</string>
+    <string name="next">next</string>
 </resources>
